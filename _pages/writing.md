@@ -27,7 +27,7 @@ ISBN: 978-93-343-4923-8
 
 - **ASU News**  
   Featured profile
-  [Article Link] (https://news.asu.edu/20251203-sun-devil-community-biomedical-informatics-and-data-science-graduate-humanizes-scientific)
+  [Article Link](https://news.asu.edu/20251203-sun-devil-community-biomedical-informatics-and-data-science-graduate-humanizes-scientific)
 
 
 
