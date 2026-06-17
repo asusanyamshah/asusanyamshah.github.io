@@ -11,4 +11,4 @@ redirect_from:
 
 # Curriculum Vitae
 
-[Download CV (PDF)](/files/Sanyam_Shah_CV.pdf)
+[Download CV (PDF)](/files/SanyamShah_CV.pdf)
