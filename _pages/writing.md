@@ -11,8 +11,9 @@ author_profile: true
 <img src="/images/book_cover.png" alt="Poetry Collection Preview" width="400"/>
 
 **Description:**  
-This is a scientic poetry collection exploring research in different areas of bioinformatics. The main goal of this collection was to make science less intimidating and more accessible. By blending art and science, these poems help people see the beauty behind what we do in bioinformatics because science isn’t just about facts and figures—it’s about creativity, problem-solving, and discovering the unknown These poems aim to capture that and make it relatable for anyone, no matter their background. 
+This is a scientifc poetry collection exploring research in different areas of bioinformatics. The main goal of this collection was to make science less intimidating and more accessible. By blending art and science, these poems help people see the beauty behind what we do in bioinformatics because science isn’t just about facts and figures—it’s about creativity, problem-solving, and discovering the unknown These poems aim to capture that and make it relatable for anyone, no matter their background. 
 
+ISBN: 978-93-343-4923-8
 
 ### Featured / Published In
 
@@ -26,7 +27,7 @@ This is a scientic poetry collection exploring research in different areas of bi
 
 - **ASU News**  
   Featured profile
-  https://news.asu.edu/20251203-sun-devil-community-biomedical-informatics-and-data-science-graduate-humanizes-scientific
+  [Article Link] (https://news.asu.edu/20251203-sun-devil-community-biomedical-informatics-and-data-science-graduate-humanizes-scientific)
 
 
 
