@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Sanyam Shah, an incoming PhD student in Bioinformatics and Genomics at Penn State University.
+Hi, I’m Sanyam Shah (Sanyam Paresh Shah), an incoming PhD student in Bioinformatics and Genomics at Penn State University.
 
 My research interests lie at the intersection of genomics, machine learning, and computational biology. As an undergraduate at Arizona State University, I worked on projects spanning healthcare informatics, metabolic syndrome prediction, Oxford Nanopore sequencing, metagenomics, and digital health interventions. I have authored first-author publications in computational health prediction and healthcare informatics and contributed to research in genomics and bioinformatics.
 
